@@ -79,4 +79,4 @@ function downloadImage(){
 
 export default App
 
-VITE_API_KEY =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 
+
