@@ -1,4 +1,13 @@
-# React + TypeScript + Vite
+# Generate images with AI
+
+
+React + TypeScript + Vite
+
+hugging face api (ZB-Tech/Text-to-Image)
+
+https://huggingface.co/ZB-Tech/Text-to-Image
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
